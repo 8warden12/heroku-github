@@ -1,6 +1,6 @@
 // Try edit message
 const data = {
-  message: 'Hello world',
+  message: 'Salut a monde',
 }
 
 $('#msg').html(data.message)
